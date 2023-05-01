@@ -1,0 +1,49 @@
+body{
+	background-image:url('../img/pexels-pixabay-260024.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.body{
+	width:800px;
+	height:800px;
+	border:3px solid black;
+	margin:20px;
+	
+	
+}
+
+.box{
+	width:100px;
+	height:100px;
+	background-color:white;
+	float:left;
+	font-size:80px;
+}
+
+.box1{
+	width:100px;
+	height:100px;
+	background-color:black;
+	float:left;
+	font-size:80px;
+	color:white;
+}
+.box11{
+	width:100px;
+	height:100px;
+	background-color:black;
+	float:left;
+	font-size:80px;
+	
+.box12{
+	width:100px;
+	height:100px;
+	background-color:black;
+	float:left;
+	font-size:80px;
+	
+}
+.clear{
+	clear:both;
+}
